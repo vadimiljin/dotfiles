@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Vadim Iljin
+  email = vadim.iljin@gmail.com
 [core]
-  editor = vi
+  editor = nano
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
